@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Leetambra Benjamin"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,10 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer   
+I went to high school at Siato High School in Los Angeles. I graduated in 2017. English is better to me than math ,I honestly hate math i never got it growing up. I always did the best in english, i love to read & write.
+  
+
   
 
      
@@ -27,13 +30,15 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
+    I have a windows computer at home. I will rate myself a 9 , i always love technology growing up and i learn fast when it comes to computers. yes i have internet connection.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+ I will be preferred to be call Lee, since most of the times people tend to not know how to pronounce my name.
+   
    
  
 
@@ -44,7 +49,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+    I want to receive a BA in my major which is Psychology. Psychology will definitely be the best interest to me because it helps me understand my major for the career Im reaching for. Right now im achieving to get my AA .
+   
    
  
 
@@ -55,7 +61,8 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+ I haven been to cabo San Lucas,MX & also Montego Bay,Jamaica. I will love to go to Africa. I have never been to the military.
+   
    
   
 
@@ -69,7 +76,8 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   Im taking statistic because its needed for my major. I have only taken math 115 , this is my 3rd time taking it. I did not know that math 116 was needed thats something im glad to know now. I need at least a C to pass. My plan is to take an in person class , which i am hoping i can understand better because the first 2 times i took it online and i didnt get it at all.
+  
  
 
 
